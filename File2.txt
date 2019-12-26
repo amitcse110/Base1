@@ -1,4 +1,3 @@
-
 		List<String> l=new ArrayList<String>();
 		
 		l.add("chair");
@@ -6,6 +5,8 @@
 		l.add("table");
 		
 		System.out.println("Array Size"+ l.size());
-		System.out.println();
+		System.out.print("git WorkingDir1 File1");
 		System.out.println(l.get(1));
-		System.out.println(git master version 1);
+		System.out.println(l.get(2));
+
+               System.out.print("git WorkingDir1 File1");
