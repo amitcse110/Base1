@@ -1,4 +1,4 @@
-		List<String> l=new ArrayList<String>();
+		List<String> l=new ArrayListjavabuilderWorkingDir<String>();
 		
 		l.add("chair");
 		l.add("abc");
@@ -9,22 +9,4 @@
 		System.out.println(l.get(1));
 		System.out.println(l.get(2));
 
-               System.out.print("git javabuilderMaster File1");javabuilderMaster
-	       javabuilderMasterv
-	       javabuilderMaster
-	       v
-	       
-	       javabuilderMaster
-	       javabuilderMaster
-	       vjavabuilderMastervv
-	       v
-	       v
-	       v
-	       v
-	       v
-	       
-	       v
-	       vjavabuilderMasterjavabuilderMaster
-	       javabuilderMasterv
-	       javabuilderMaster
-	       v
+               System.out.print("git javabuilderWorkingDirFile1");
