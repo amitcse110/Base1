@@ -34,7 +34,6 @@ String Str[]= new String[4];
 		
 		System.out.println("Rows are="+ x.length);
 		System.out.println("git WorkingDir1 File1");
-		Some More master Change put directly
 		
 		int rows=x.length;
 		int cols=x[0].length;
