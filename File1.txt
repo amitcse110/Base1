@@ -1,9 +1,9 @@
 String Str[]= new String[4];
 		
-		Str[0]=" Master Hello";
-		Str[1]="Name Master";
-		Str[2]="Phone Master";
-		Str[3]="Digits Master";
+		Str[0]="Hello Working Dir";
+		Str[1]="Name Working Dir";
+		Str[2]="Phone Working Dir ";
+		Str[3]="Digits Working Dir";
 		
 		System.out.println(Str.length);
 		
@@ -31,8 +31,8 @@ String Str[]= new String[4];
 		x[2][2]="C2";
 		x[2][3]="D2";
 		
-		System.out.println("Rows Master are="+ x.length);
-		System.out.println("git Master File1");
+		System.out.println("Rows are="+ x.length);
+		System.out.println("git WorkingDir1 File1");
 		
 		int rows=x.length;
 		int cols=x[0].length;
