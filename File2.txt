@@ -2,10 +2,10 @@
 		
 		l.add("chair");
 		l.add("abc");
-		l.add("table");
+		l.add("table javabuilderMaster");
 		
 		System.out.println("Array Size"+ l.size());
-		System.out.print("git javabuilderWorkingDirFile1");
+		System.out.print("git javabuilderMaster  javabuilderMasterFile1");
 		System.out.println(l.get(1));
 		System.out.println(l.get(2));
 
