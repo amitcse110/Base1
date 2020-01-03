@@ -1,9 +1,9 @@
 String Str[]= new String[4];
 		
-		Str[0]="Hello";
-		Str[1]="Name";
-		Str[2]="Phone";
-		Str[3]="Digits";
+		Str[0]="Hello Working Dir";
+		Str[1]="Name Working Dir";
+		Str[2]="Phone Working Dir ";
+		Str[3]="Digits Working Dir";
 		
 		System.out.println(Str.length);
 		
