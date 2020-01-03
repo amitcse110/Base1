@@ -1,12 +1,12 @@
-		List<String> l=new ArrayList<String>();
+		List<String> l=new ArrayListjavabuilderWorkingDir<String>();
 		
 		l.add("chair");
 		l.add("abc");
 		l.add("table");
 		
 		System.out.println("Array Size"+ l.size());
-		System.out.print("git WorkingDir1 File1");
+		System.out.print("git javabuilderWorkingDirFile1");
 		System.out.println(l.get(1));
 		System.out.println(l.get(2));
 
-               System.out.print("git WorkingDir1 File1");
+               System.out.print("git javabuilderWorkingDirFile1");
